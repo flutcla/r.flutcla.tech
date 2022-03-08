@@ -4,8 +4,7 @@ date: 2022-03-08T14:20:43+09:00
 draft: False
 ---
 
-- 木内康介と申します
-- [東京工業大学 数理計算科学系](https://educ.titech.ac.jp/is/) の学部生です
+- [東京工業大学 数理計算科学系](https://educ.titech.ac.jp/is/) 所属の 木内康介 です
 
 ## 研究
 - [増原研究室 (Programming Research Group)](https://prg.is.titech.ac.jp/ja/) に所属しています
