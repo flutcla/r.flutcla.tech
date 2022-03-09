@@ -5,7 +5,7 @@ draft: False
 ---
 
 - Hi, I'm Kosuke Kiuchi.
-- I'm an undergraduate student at [Tokyo Institute of Technology, Department of Mathematical and Computing Sciences](https://educ.titech.ac.jp/is/).
+- I'm an undergraduate student at [Tokyo Institute of Technology, Department of Mathematical and Computing Science](https://educ.titech.ac.jp/is/).
 
 ## Research
 - I'm a member of [Programming Research Group](https://prg.is.titech.ac.jp/ja/).
@@ -39,3 +39,12 @@ draft: False
 
 - I like to sing.
   - Sometimes I go to karaoke alone.
+
+## History
+| Time | Event | Remarks |
+| -: | :-: | :- |
+| 1999/8/24 | Born in Japan. |
+| 2018 | Entered Tokyo Institute of Technology, Group 1. | At that time, School of Science and Department of Mathematical and Computing Science were classified as Group 1. |
+| 2019 | Assigned to Undergraduate Major in Physics, School of Science. |
+| 2021 | Re-assigned to Undergraduate Major in Mathematical and Computing Science, School of Mathematical and Computing Sciences. | Changed my major. |
+| 2022 | Assigned to Masuhara Lab. |
