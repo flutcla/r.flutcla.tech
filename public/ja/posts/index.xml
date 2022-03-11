@@ -6,7 +6,17 @@
     <description>Recent content in Posts on r.flutcla</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Mar 2022 15:09:48 +0900</lastBuildDate><atom:link href="http://r.flutcla.tech/ja/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Mar 2022 12:03:34 +0900</lastBuildDate><atom:link href="http://r.flutcla.tech/ja/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>今までに書いたことのある言語</title>
+      <link>http://r.flutcla.tech/ja/posts/languages-ive-ever-written/</link>
+      <pubDate>Thu, 10 Mar 2022 12:03:34 +0900</pubDate>
+      
+      <guid>http://r.flutcla.tech/ja/posts/languages-ive-ever-written/</guid>
+      <description>今までどんな言語を書いたことがあるかメモしていきます。 新しい言語に触れるたびに(覚えていたら)追記します。 また、各言語ごとにちょっとしたコードや感想をまとめたページを作っていく予定です。
+ Python  </description>
+    </item>
+    
     <item>
       <title>最初の投稿</title>
       <link>http://r.flutcla.tech/ja/posts/first-post/</link>

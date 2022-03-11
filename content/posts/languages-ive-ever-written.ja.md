@@ -2,10 +2,10 @@
 draft = false
 date = 2022-03-10T12:03:34+09:00
 title = "今までに書いたことのある言語"
-description = ""
+description = "私が今までに書いたことのある言語の一覧です。"
 slug = ""
 authors = []
-tags = ["Programming Language"]
+tags = []
 categories = ["Programming"]
 externalLink = ""
 series = ["languages-ive-ever-written"]
@@ -15,5 +15,5 @@ series = ["languages-ive-ever-written"]
 新しい言語に触れるたびに(覚えていたら)追記します。
 また、各言語ごとにちょっとしたコードや感想をまとめたページを作っていく予定です。
 
-- [Python](/ja/languages/python)
+- [Python](/ja/posts/languages-ive-ever-written/python)
 

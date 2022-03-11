@@ -2,6 +2,113 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://r.flutcla.tech/categories/</loc>
+    <lastmod>2022-03-10T12:03:34+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://r.flutcla.tech/ja/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://r.flutcla.tech/categories/"
+                />
+  </url><url>
+    <loc>http://r.flutcla.tech/posts/languages-ive-ever-written/</loc>
+    <lastmod>2022-03-10T12:03:34+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://r.flutcla.tech/ja/posts/languages-ive-ever-written/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://r.flutcla.tech/posts/languages-ive-ever-written/"
+                />
+  </url><url>
+    <loc>http://r.flutcla.tech/series/languages-ive-ever-written/</loc>
+    <lastmod>2022-03-10T12:03:34+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://r.flutcla.tech/ja/series/languages-ive-ever-written/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://r.flutcla.tech/series/languages-ive-ever-written/"
+                />
+  </url><url>
+    <loc>http://r.flutcla.tech/posts/</loc>
+    <lastmod>2022-03-10T12:03:34+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://r.flutcla.tech/ja/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://r.flutcla.tech/posts/"
+                />
+  </url><url>
+    <loc>http://r.flutcla.tech/categories/programming/</loc>
+    <lastmod>2022-03-10T12:03:34+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://r.flutcla.tech/ja/categories/programming/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://r.flutcla.tech/categories/programming/"
+                />
+  </url><url>
+    <loc>http://r.flutcla.tech/tags/programming-language/</loc>
+    <lastmod>2022-03-10T12:03:34+09:00</lastmod>
+  </url><url>
+    <loc>http://r.flutcla.tech/</loc>
+    <lastmod>2022-03-10T12:03:34+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://r.flutcla.tech/ja/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://r.flutcla.tech/"
+                />
+  </url><url>
+    <loc>http://r.flutcla.tech/series/</loc>
+    <lastmod>2022-03-10T12:03:34+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://r.flutcla.tech/ja/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://r.flutcla.tech/series/"
+                />
+  </url><url>
+    <loc>http://r.flutcla.tech/tags/</loc>
+    <lastmod>2022-03-10T12:03:34+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://r.flutcla.tech/ja/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://r.flutcla.tech/tags/"
+                />
+  </url><url>
     <loc>http://r.flutcla.tech/projects/</loc>
     <lastmod>2022-03-08T15:28:32+09:00</lastmod>
     <xhtml:link
@@ -41,32 +148,6 @@
                 href="http://r.flutcla.tech/posts/first-post/"
                 />
   </url><url>
-    <loc>http://r.flutcla.tech/posts/</loc>
-    <lastmod>2022-03-08T15:09:48+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="http://r.flutcla.tech/ja/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://r.flutcla.tech/posts/"
-                />
-  </url><url>
-    <loc>http://r.flutcla.tech/</loc>
-    <lastmod>2022-03-08T15:09:48+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="http://r.flutcla.tech/ja/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://r.flutcla.tech/"
-                />
-  </url><url>
     <loc>http://r.flutcla.tech/about/</loc>
     <lastmod>2022-03-08T14:20:43+09:00</lastmod>
     <xhtml:link
@@ -90,42 +171,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://r.flutcla.tech/authors/"
-                />
-  </url><url>
-    <loc>http://r.flutcla.tech/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="http://r.flutcla.tech/ja/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://r.flutcla.tech/categories/"
-                />
-  </url><url>
-    <loc>http://r.flutcla.tech/series/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="http://r.flutcla.tech/ja/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://r.flutcla.tech/series/"
-                />
-  </url><url>
-    <loc>http://r.flutcla.tech/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="http://r.flutcla.tech/ja/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://r.flutcla.tech/tags/"
                 />
   </url>
 </urlset>
