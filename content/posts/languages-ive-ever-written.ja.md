@@ -15,5 +15,6 @@ series = ["languages-ive-ever-written"]
 新しい言語に触れるたびに(覚えていたら)追記します。
 また、各言語ごとにちょっとしたコードや感想をまとめたページを作っていく予定です。
 
-- [Python](/posts/languages-ive-ever-written/python)
-- [Scala](/posts/languages-ive-ever-written/scala)
+{{% languages-link Python python %}}
+{{% languages-link Scala scala %}}
+

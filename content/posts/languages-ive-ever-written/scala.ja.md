@@ -36,3 +36,4 @@ object HelloWorld extends App {
 > Hello, App!
 ```
 - 簡潔に書けるのでこちらの方が好き。
+
