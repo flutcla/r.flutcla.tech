@@ -16,4 +16,4 @@ series = ["languages-ive-ever-written"]
 また、各言語ごとにちょっとしたコードや感想をまとめたページを作っていく予定です。
 
 - [Python](/posts/languages-ive-ever-written/python)
-
+- [Scala](/posts/languages-ive-ever-written/scala)

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scala on r.flutcla</title>
+    <link>http://r.flutcla.tech/tags/scala/</link>
+    <description>Recent content in Scala on r.flutcla</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 01 Jan 2000 00:00:00 +0900</lastBuildDate><atom:link href="http://r.flutcla.tech/tags/scala/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scala</title>
+      <link>http://r.flutcla.tech/posts/languages-ive-ever-written/scala/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0900</pubDate>
+      
+      <guid>http://r.flutcla.tech/posts/languages-ive-ever-written/scala/</guid>
+      <description>Hello World通常の記法object HelloWorld {  def main(args:Array[String]):Unit = {  println(&amp;#34;Hello, Scala!&amp;#34;)  } } &amp;gt; Hello, Scala!  この記法はほとんどJavaと同じ。 やたら冗長なのであまり好きではない。  Appトレイトを用いる記法object HelloWorld extends App {  println(&amp;#34;Hello, App!&amp;#34;) } &amp;gt; Hello, App!  簡潔に書けるのでこちらの方が好き。  </description>
+    </item>
+    
+  </channel>
+</rss>
