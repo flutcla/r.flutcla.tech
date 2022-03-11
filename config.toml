@@ -1,8 +1,8 @@
 baseURL = "http://r.flutcla.tech"
 title = "r.flutcla"
 theme = "hugo-coder"
-languageCode = "en"
-defaultContentLanguage = "en"
+languageCode = "ja"
+defaultContentLanguage = "ja"
 paginate = 20
 pygmentsStyle = "perldoc"
 pygmentsCodeFences = true
@@ -12,14 +12,14 @@ enableEmoji = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-author = "Kosuke KIUCHI"
+author = "Kosuke KIUCHI (木内康介)"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Kosuke Kiuchi's personal website"
 keywords = "blog,developer,personal"
-info = ["Undergraduate Student at Tokyo Tech", "(Department of Mathematical and Computing Science)", "Tutoring School Teacher (Physics, Math)"]
+info = ["東京工業大学 数理計算科学系", "塾講師 (物理学・数学)"]
 avatarURL = "images/icon.png"
 # gravatar = "mail@r.flutcla.tech"
-dateFormat = "January 2, 2006"
+dateFormat = "2006年 January 2日"
 since = 2022
 # Git Commit in Footer, uncomment the line below to enable it
 commit = "https://github.com/luizdepra/hugo-coder/tree/"
@@ -108,11 +108,16 @@ url = "https://github.com/flutcla/"
 [[params.social]]
 name = "Twitter"
 icon = "fa fa-2x fa-twitter"
-weight = 3
+weight = 2
 url = "https://twitter.com/rflutcla/"
 
 [languages.en]
 languageName = "English"
+
+[languages.en.params]
+author = "Kosuke KIUCHI"
+info = ["Undergraduate Student at Tokyo Tech", "(Department of Mathematical and Computing Science)", "Tutoring School Teacher (Physics, Math)"]
+dateFormat = "January 2, 2006"
 
 [[languages.en.menu.main]]
 name = "About"

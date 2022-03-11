@@ -11,4 +11,4 @@ externalLink = ""
 series = ["languages-ive-ever-written"]
 +++
 
-[Japanese Only](/ja/posts/languages-ive-ever-written)
+[Japanese Only](/posts/languages-ive-ever-written)
