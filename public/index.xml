@@ -34,7 +34,7 @@
       <pubDate>Tue, 08 Mar 2022 15:16:27 +0900</pubDate>
       
       <guid>http://r.flutcla.tech/contact/</guid>
-      <description> メール 研究室のアドレス kiuchi.k [at] prg.is.titech.ac.jp 個人のアドレス mail [at] r.flutcla.tech   Twitter @rflutcla  </description>
+      <description> メール     研究室のアドレス kiuchi.k [at] prg.is.titech.ac.jp 個人のアドレス mail [at] r.flutcla.tech   Twitter     @rflutcla  </description>
     </item>
     
     <item>
@@ -52,8 +52,8 @@
       <pubDate>Tue, 08 Mar 2022 14:20:43 +0900</pubDate>
       
       <guid>http://r.flutcla.tech/about/</guid>
-      <description>東京工業大学 数理計算科学系 所属の 木内康介 です  研究 増原研究室 (Programming Research Group) に所属しています 研究分野は未定です  研究室に配属されたばかりです 型とプログラミング教育に興味があります    教育 ARENA という塾で物理を中心に教えています 某大手予備校の個別指導もやってます 家庭教師もやってます  趣味  ゲームが好きです
-最近よくプレイするゲーム パズル系  Baba Is You (link) ←おすすめです A=B (link) Understand (link)   ぷよぷよ (link) 箱庭系  Cities: Skylines (link) Project Hospital (link) Factorio (link)   Apex Legends (link) 音楽ゲーム  maimai (link) オンゲキ (link) プロジェクトセカイ カラフルステージ！ (link)      歌うことが好きです</description>
+      <description>東京工業大学 数理計算科学系 所属の 木内康介 です  研究     増原研究室 (Programming Research Group) に所属しています 研究分野は未定です  研究室に配属されたばかりです 型とプログラミング教育に興味があります    教育     ARENA という塾で物理を中心に教えています 某大手予備校の個別指導もやってます 家庭教師もやってます  趣味      ゲームが好きです
+最近よくプレイするゲーム  パズル系  Baba Is You (link) ←おすすめです A=B (link) Understand (link)   ぷよぷよ (link) 箱庭系  Cities: Skylines (link) Project Hospital (link) Factorio (link)   Apex Legends (link) 音楽ゲーム  maimai (link) オンゲキ (link) プロジェクトセカイ カラフルステージ！ (link)       歌うことが好きです</description>
     </item>
     
     <item>
@@ -62,7 +62,7 @@
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0900</pubDate>
       
       <guid>http://r.flutcla.tech/posts/languages-ive-ever-written/python/</guid>
-      <description>Hello Worldprint(&amp;#39;Hello, Python!&amp;#39;) &amp;gt; Hello, Python!  非常に簡潔に書ける。 文字列は&#39; &amp;quot;どちらでも良い。  </description>
+      <description>Hello World    print(&amp;#39;Hello, Python!&amp;#39;) &amp;gt; Hello, Python!  非常に簡潔に書ける。 文字列は&#39; &amp;quot;どちらでも良い。  </description>
     </item>
     
     <item>
@@ -71,7 +71,7 @@
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0900</pubDate>
       
       <guid>http://r.flutcla.tech/posts/languages-ive-ever-written/scala/</guid>
-      <description>Hello World通常の記法object HelloWorld {  def main(args:Array[String]):Unit = {  println(&amp;#34;Hello, Scala!&amp;#34;)  } } &amp;gt; Hello, Scala!  この記法はほとんどJavaと同じ。 やたら冗長なのであまり好きではない。  Appトレイトを用いる記法object HelloWorld extends App {  println(&amp;#34;Hello, App!&amp;#34;) } &amp;gt; Hello, App!  簡潔に書けるのでこちらの方が好き。  </description>
+      <description>Hello World    通常の記法    object HelloWorld {  def main(args:Array[String]):Unit = {  println(&amp;#34;Hello, Scala!&amp;#34;)  } } &amp;gt; Hello, Scala!  この記法はほとんどJavaと同じ。 やたら冗長なのであまり好きではない。  Appトレイトを用いる記法    object HelloWorld extends App {  println(&amp;#34;Hello, App!&amp;#34;) } &amp;gt; Hello, App!  簡潔に書けるのでこちらの方が好き。  </description>
     </item>
     
   </channel>
