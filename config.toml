@@ -11,6 +11,7 @@ enableEmoji = true
 # Enable Disqus comments
 # disqusShortname = "yourdiscussshortname"
 
+googleAnalytics = "G-HJ1F7MECYT"
 [params]
 author = "Kosuke KIUCHI (木内康介)"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
