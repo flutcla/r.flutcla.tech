@@ -1,6 +1,3 @@
 [submodule "themes/hugo-coder"]
 	path = themes/hugo-coder
 	url = https://github.com/flutcla/hugo-coder.git
-[submodule "static/slides"]
-	path = static/slides
-	url = https://github.com/flutcla/slides.git
