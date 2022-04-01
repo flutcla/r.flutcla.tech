@@ -1,1 +1,2 @@
-- `hugo` to compile public html.
+- `make pull` to pull/update everything.
+- `make hugo` to compile public files.
