@@ -1,8 +1,6 @@
-pull :
+pull : slides
 	git pull
-	cd ./static/slides
-	git pull
-	cd ../../
+	cd ./static/slides && git pull
 	git submodule update --remote
 
 hugo :
