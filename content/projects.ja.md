@@ -5,3 +5,5 @@ draft: false
 ---
 
 まだありません
+
+[example slide](/slides/example/)

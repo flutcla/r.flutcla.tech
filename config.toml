@@ -1,4 +1,5 @@
-baseURL = "http://r.flutcla.tech"
+baseURL = "https://r.flutcla.tech"
+canonifyurls = true
 title = "r.flutcla"
 theme = "hugo-coder"
 languageCode = "ja"
